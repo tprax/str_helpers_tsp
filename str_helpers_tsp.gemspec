@@ -10,8 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tprax01@gmail.com"]
 
   spec.summary       = "string helper"
-  spec.description   = "https://github.com/tprax/str_helpers_tsp"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/tprax/str_helpers_tsp"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
