@@ -1,5 +1,5 @@
 require "str_helpers_tsp/version"
-require "./greeting"
+require "str_helpers_tsp/greeting"
 
 module StrHelpersTsp
   def self.reversify(str)
