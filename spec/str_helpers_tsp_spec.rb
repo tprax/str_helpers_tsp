@@ -1,9 +1,10 @@
 RSpec.describe StrHelpersTsp do
+  subject { StrHelpersTsp }
+
   it "has a version number" do
     expect(StrHelpersTsp::VERSION).not_to be nil
   end
 
-  it "does something useful" do
-    expect(false).to eq(true)
-  end
+  describe 'manipulates strings' do
+    let (:str) {'My String'}
 end
